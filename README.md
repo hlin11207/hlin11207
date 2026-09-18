@@ -8,9 +8,10 @@ I am currently a **Computer Science** major at the **Industrial University of Ho
 - 📫 **How to reach me:** [hoanglinh1582007@gmail.com]
 - 😄 **Pronouns:** He/him
 - ⚡ **Fun fact:** When I'm not coding, you can find me dropping into PUBG: BATTLEGROUNDS on PC or watching Himass's esports highlights!
-
+<!--
 ### 📊 Top Languages
-<!-- This chart automatically scans your public repositories to calculate the percentage of languages you use most -->
+<!-- This chart automatically scans your public repositories to calculate the percentage of languages you use most 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlin11207&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
+  -->
